@@ -1,3 +1,11 @@
-# ignite-modulo-1
+## 😸 About the project
 
-## Ganhando base e conhecimento pra projetos back-end
+Project to gain base on back-end projects (Ignite module 1)
+
+## 🚀 Technologies
+
+* Node.JS
+* Nodemon
+* Express
+
+
